@@ -1,0 +1,4 @@
+golang:latest
+node:lts-slim
+node:lts
+composer:2.1.11
