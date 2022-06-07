@@ -3,5 +3,3 @@ node:lts-slim
 node:lts
 composer:2.1.11
 python:slim
-java-quarkus-image:latest
-java-springboot-image:latest
